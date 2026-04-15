@@ -3,8 +3,8 @@
 
 
 ## 🌐 Connect With Me(Socials)
-💼 LinkedIn: https://www.linkedin.com/in/rohanpengonda/
-🌍 Portfolio: https://rohanpengonda.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/rohanpengonda/ <br><br>
+🌍 Portfolio: https://rohanpengonda.vercel.app/ <br><br>
 📫 Email: rpengonda1@gmail.com
 
 # 💻 Tech Stack:
